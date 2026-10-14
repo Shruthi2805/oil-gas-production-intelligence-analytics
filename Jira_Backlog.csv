@@ -1,0 +1,10 @@
+Issue Type,Summary,Description,Priority,Acceptance Criteria
+Epic,GH Energy production intelligence,Deliver synthetic oil and gas operational BI case study,High,All must-have requirements tested
+Story,Define KPI catalog,Document BOE targets and cost measures,High,Approved KPI definitions and units
+Story,Build validated SQL data model,Create tables keys and scorecard view,High,SQL totals reconcile to CSV
+Story,Create executive Power BI page,Implement native cards and production visuals,High,All visuals filter and totals match SQL
+Story,Build field to well drill through,Create source and destination pages,High,Well context retained
+Story,Analyze downtime drivers,Build event based reliability visuals,High,No fact table duplication
+Story,Implement MicroStrategy scorecard,Build and reconcile enterprise report,Medium,Three cross-platform tests pass
+Story,Create Visio process maps,Document AS IS TO BE and BPMN,Medium,Six diagrams reviewed
+Task,Execute UAT and publish evidence,Capture actual test screenshots,High,No fabricated pass statuses
