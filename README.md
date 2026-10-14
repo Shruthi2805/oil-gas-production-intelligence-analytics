@@ -93,3 +93,20 @@ The solution demonstrates how centralized BI reporting can help operations teams
 Disclaimer
 
 Gulf Horizon Energy is a fictional organization created exclusively for this independent portfolio project. All operational data is synthetic. No real company affiliation, production results, or live system integration is claimed.
+
+## 📊 Power BI Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](01_EXECUTIVE%20OVERVIEW.png)
+
+### 2. Production Intelligence
+![Production Intelligence](02_Productive%20Intelligence.png)
+
+### 3. Downtime & Reliability
+![Downtime & Reliability](03_Downtime%20%26%20Reliability.png)
+
+### 4. Cost & Profitability
+![Cost & Profitability](04_Cost%20of%20Profitability.png)
+
+### 5. Field & Well Performance
+![Field & Well Performance](05_Field%20%26%20Well%20Performance.png)
