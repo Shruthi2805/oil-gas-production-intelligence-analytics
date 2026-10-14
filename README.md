@@ -97,7 +97,7 @@ Gulf Horizon Energy is a fictional organization created exclusively for this ind
 ## 📊 Power BI Dashboard Preview
 
 ### 1. Executive Overview
-![Executive Overview](./01_EXECUTIVE%20OVERVIEW.png)
+![Executive Overview](01_EXECUTIVE%20OVERVIEW.png)
 
 ### 2. Production Intelligence
 ![Production Intelligence](02_Productive%20Intelligence.png)
